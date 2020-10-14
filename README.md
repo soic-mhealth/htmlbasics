@@ -1,2 +1,2 @@
 # htmlbasics
-Basics of html in lecture 3
+It contains basics of html in lecture 3
